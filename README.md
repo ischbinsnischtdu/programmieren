@@ -2,6 +2,8 @@
 ## Einleitung
 #### Mein Programm ist ein Login. Ein Benutzer kann seit Benutzerwort und sein Passwort eingeben und das Programm checkt, ob es übereinstimmt. Falls das Login stimmt, kommt als Ausgabe "Herzlich Willkommen" und wenn es falsch ist kommt "Passwort ist falsch".
 
+<img width="423" alt="image" src="https://user-images.githubusercontent.com/96242010/146382775-2048ace6-87d4-4de7-8440-7f51a39475e4.png">
+
 
 ## Features
 - es checkt ob das Passwort oder der Benutzername stimmt
