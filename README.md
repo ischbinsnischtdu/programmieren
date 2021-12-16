@@ -1,5 +1,9 @@
 # Programmieren
-## Features:
+## Einleitung
+#### Mein Programm ist ein Login. Ein Benutzer kann seit Benutzerwort und sein Passwort eingeben und das Programm checkt, ob es übereinstimmt. Falls das Login stimmt, kommt als Ausgabe "Herzlich Willkommen" und wenn es falsch ist kommt "Passwort ist falsch".
+
+
+## Features
 - es checkt ob das Passwort oder der Benutzername stimmt
 - es kann sich nur die richtige Person einloggen
 - es erkennt den User
